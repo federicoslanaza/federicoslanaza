@@ -29,5 +29,5 @@
     <p>Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML</p>
 
  ## You may reach me at
-- 💼 LinkedIn: [Federico Lanaza](www.linkedin.com/in/federico-lanaza-9a928640b)
+- 💼 LinkedIn: [Federico Lanaza](https://www.linkedin.com/in/federico-lanaza-9a928640b/)
 - 📧 Email: federicosumawanglanaza@gmail.com
